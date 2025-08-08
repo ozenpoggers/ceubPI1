@@ -2,10 +2,10 @@
 Matéria de Projeto Integrador 1 do curso de ADS 
 
 Grupo:
-Camila
-Enzo
-Leticia
-Marcela
+Camila (PO),
+Marcela (Scrum master),
+Enzo (dev)
+Leticia (dev)
 
 Temas do projeto:
 Social
