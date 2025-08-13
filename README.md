@@ -4,7 +4,7 @@ Matéria de Projeto Integrador 1 do curso de ADS
 Grupo:
 Camila (PO),
 Marcela (Scrum master),
-Enzo (dev),
+Enzo Nardelli (dev),
 Leticia (dev),
 João Gabriel (dev)
 
