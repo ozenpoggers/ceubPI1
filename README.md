@@ -9,4 +9,4 @@ Leticia (dev),
 João Gabriel Costa Alves (dev)
 
 Temas do projeto:
-Hortas urbanas (continuação do tcc da camila)
+Hortas urbanas (continuação do TCC da camila)
