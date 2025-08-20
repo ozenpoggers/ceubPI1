@@ -12,3 +12,5 @@ João Gabriel Costa Alves (dev)
 
 Temas do projeto:
 Hortas urbanas (continuação do TCC da camila)
+
+https://docs.google.com/presentation/d/17Y2aORbqRmVt4SSF9ILtmgEn6hmZKHEDTKdAgGd03f0/edit?usp=sharing
