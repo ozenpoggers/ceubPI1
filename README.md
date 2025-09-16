@@ -8,8 +8,6 @@ https://docs.google.com/presentation/d/17Y2aORbqRmVt4SSF9ILtmgEn6hmZKHEDTKdAgGd0
 # Hortas Urbanas Comunitárias
 Os problemas das hortas urbanas comunitárias e possíveis soluções de TI
 
----
-
 ## 🌱 Contexto do Projeto
 
 As hortas urbanas comunitárias têm se tornado uma tendência crescente nas grandes cidades, representando uma alternativa sustentável para produção de alimentos, fortalecimento de laços comunitários e melhoria da qualidade de vida urbana. No entanto, diversos desafios impedem que essas iniciativas alcancem seu potencial máximo.
@@ -46,12 +44,12 @@ Desenvolver uma solução tecnológica que identifique, analise e resolva os pri
 - Falta de conexão entre diferentes hortas da cidade
 
 ## 💡 Proposta de Solução
-HortaCoins (TEMPORARIO) 🌱
+
  Gamificação das Hortas Urbanas Comunitárias
 *Transforme trabalho comunitário em recompensas reais*
 As hortas urbanas comunitárias enfrentam um desafio crítico: **baixa participação contínua** e **dificuldades para engajar voluntários** nas tarefas essenciais de manutenção. Muitas hortas começam com entusiasmo, mas gradualmente perdem colaboradores, comprometendo a sustentabilidade dos projetos.
 
-🎯 Conceito Central: HortaCoins
+🎯 Conceito Central: HortaCoins(TEMPORÁRIO)
 
 **Um aplicativo de gamificação** onde hortas urbanas podem **publicar tarefas** (regar plantas, capinar, plantar, colher) e os **usuários ganham moedas virtuais (HortaCoins)** ao completá-las. Essas moedas podem ser **trocadas por produtos frescos** das próprias hortas no futuro.
 

@@ -97,7 +97,7 @@ Desenvolver e validar um protótipo conceitual navegável que demonstre a viabil
 5. **Estabelecer** as bases técnicas e de design para desenvolvimento completo
 
 ### **Metas Mensuráveis - Semestre 1**
-- ✅ **2+ entrevistas** com gestores de hortas e voluntários
+- ✅ **Mais 2+ entrevistas** com gestores de hortas e voluntários
 - ✅ **3 personas** detalhadas e validadas
 - ✅ **15+ telas** navegáveis no protótipo
 - ✅ **1 protótipo** navegável (Figma ou HTML simples)
@@ -180,7 +180,7 @@ Navegação entre Telas (Figma ou HTML simples)
 
 #### **Dados e Conteúdo:**
 - **Dados fictícios** simulando usuários, tarefas, hortas
-- **Imagens stock** para ilustrar conceitos
+- **Imagens stock e imagens próprias** para ilustrar conceitos 
 - **Textos explicativos** do sistema
 
 #### **Ferramentas de Design:**
@@ -191,7 +191,7 @@ Navegação entre Telas (Figma ou HTML simples)
 ### **Decisão Técnica para Semestre 1**
 **Foco em validação conceitual**, não em implementação técnica. O objetivo é provar que a ideia funciona antes de investir em desenvolvimento completo.
 
-### **Arquitetura de Informação**
+### **Arquitetura de Informação (EM CONSTRUÇÃO)** 
 ```
 App Root
 ├── Autenticação
@@ -237,7 +237,7 @@ App Root
 ## 📏 **8. METODOLOGIA DE TRABALHO**
 
 ### **Framework Scrum Adaptado**
-- **Sprints:** 3-4 semanas cada
+- **Sprints:** 2 semanas cada
 - **Dailies:** 2x por semana (terça e quinta)
 - **Sprint Planning:** Início de cada sprint
 - **Sprint Review:** Final de cada sprint
@@ -250,11 +250,12 @@ App Root
 - **Retrospectiva** (1h): Melhoria contínua do processo
 
 ### **Ferramentas de Gestão**
-- **Trello/Azure DevOps**: Backlog e acompanhamento de tarefas
+- **GitHub**: Código e versionamento e arquivos para entrega
+- **Github Projects**: Backlog e acompanhamento de tarefas
 - **WhatsApp**: Comunicação rápida da equipe
-- **Google Meet**: Reuniões remotas
-- **Google Drive**: Compartilhamento de documentos
-- **GitHub**: Código e versionamento
+- **Discord**: Reuniões remotas
+- **Google Drive**: Compartilhamento de documentos mais informal
+- **Trello/Azure DevOps**: Backlog e acompanhamento de tarefas, se necessário
 
 ### **Definition of Ready**
 - User story com critérios de aceite claros
@@ -345,9 +346,9 @@ App Root
 ## 📊 **11. INDICADORES DE SUCESSO** (EM CONSTRUÇÃO)
 
 ### **KPIs do Projeto - Semestre 1**
-- **Entrega no prazo**: 100% dos marcos entregues conforme cronograma
+- **Entrega no prazo**: Marcos entregues conforme cronograma
 - **Qualidade do protótipo**: Navegação fluida entre todas as telas
-- **Validação conceitual**: ≥80% de feedback positivo nos testes
+- **Validação conceitual**: ≥80% de feedback positivo nos testes 
 - **Completude do protótipo**: 100% dos fluxos principais navegáveis
 
 ### **Métricas de Validação - Semestre 1**
@@ -384,7 +385,7 @@ App Root
 - **Banca avaliadora**: Apresentação formal na aula 19
 
 ### **Documentação de Progresso**
-- Atas de reunião arquivadas no Drive
+- Atas de reunião arquivadas no Drive ou no git?
 - Relatórios semanais de progresso
 - Registro fotográfico das atividades
 - Versionamento do código no GitHub
@@ -456,7 +457,7 @@ App Root
 ## ✅ **15. ASSINATURAS E APROVAÇÕES**
 
 ### **Aprovação da Equipe**
-- [ ] **Camila a** (Product Owner) - _______________
+- [ ] **Camila ** (Product Owner) - _______________
 - [ ] ** ** (Scrum Master) - _______________  
 - [ ] **Enzo Nardelli** (Developer) - _______________
 - [ ] **Leticia Santos** (Developer) - _______________
@@ -470,7 +471,7 @@ App Root
 
 **Data de aprovação:** ___/___/2025
 
-**Versão do documento:** 1.0
+**Versão do documento:** 1.0.1
 
 **Próxima revisão:** Após Sprint 1 (01/10/2025)
 
